@@ -7,7 +7,7 @@ A Progressive Web Application (PWA) that scans barcodes of various formats, usin
 
 ## Live demo
 
-👉 [Barcode/QR code Scanner](https://georapbox.github.io/barcode-scanner/)
+👉 [Barcode/QR code Scanner](https://nrgs-jahromi.github.io/jahromi.github.io)
 
 ## Features
 
