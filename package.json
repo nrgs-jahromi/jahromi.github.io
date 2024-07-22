@@ -12,12 +12,12 @@
     "build:parcel": "parcel build --dist-dir=dist --public-url=./",
     "build": "npm-run-all clean build:parcel",
     "postbuild": "npm run generateSW",
-    "predeploy": "npm run build",
+    "predeploy": "npm run dev",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/georapbox/barcode-scanner.git"
+    "url": "git+https://nrgs-jahromi.github.io/jahromi.github.io"
   },
   "keywords": [
     "aztec",
